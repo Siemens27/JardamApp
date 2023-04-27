@@ -1,12 +1,12 @@
 # Jardam app
 
-Приложение доски объявлений - это удобный и практичный инструмент для поиска и размещения объявлений. Это приложение позволяет пользователям быстро и легко находить информацию о товарах и услугах, а также размещать собственные объявления.
+The bulletin board app is a convenient and practical tool for finding and posting announcements. This application allows users to quickly and easily find information about goods and services, as well as post their own ads.
 
-Одним из преимуществ приложения является его удобный интерфейс. Пользователи могут легко и быстро найти интересующие их объявления, используя различные фильтры и категории. Кроме того, приложение доски объявлений предоставляет возможность создавать уведомления о новых объявлениях, что позволяет пользователям быть в курсе самых свежих предложений.
+One of the advantages of the application is its user-friendly interface. Users can quickly and easily find listings of interest by using various filters and categories. In addition, the bulletin board app provides the ability to create notifications of new listings, allowing users to stay up-to-date with the latest offers.
 
-Еще одним преимуществом приложения является его широкий охват. Благодаря тому, что приложение доступно для скачивания на множестве устройств и платформ, пользователи могут легко и быстро найти информацию о товарах и услугах, даже находясь в пути. Кроме того, приложение доски объявлений часто имеет большое количество пользователей, что позволяет быстро найти интересующее объявление и установить контакт с продавцом или покупателем.
+Overall, the bulletin board app is a convenient and effective tool for finding and posting ads. The large selection of categories, user-friendly interface, and wide coverage make this app appealing to many users.
 
-В целом, приложение доски объявлений - это удобный и эффективный инструмент для поиска и размещения объявлений. Большой выбор категорий, удобный интерфейс и широкий охват делают это приложение привлекательным для многих пользователей.
+Translated with www.DeepL.com/Translator (free version)
 
 ## Getting Started
 
